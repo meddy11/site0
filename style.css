@@ -1,0 +1,25 @@
+body{
+ margin: 100px 100px ;
+ padding: 
+ background-image: url();
+ border: solid black ;
+}
+.img{
+ float: none;
+}
+.para1{
+ font-family: 'Inconsolata', monospace; 
+}
+h1,h2{
+ text-align: center;
+ font-size: 30px; 
+}
+div>ul,li{
+  font-family: 'Inconsolata', monospace;
+  font-size: 30px;
+  justify-content: flex-start;
+  list-style: none;
+  text-align: center;
+
+}	
+
